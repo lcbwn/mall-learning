@@ -2,7 +2,7 @@ package com.macro.mall.tiny;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//robin
 @SpringBootApplication
 public class MallTinyApplication {
 
